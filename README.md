@@ -8,7 +8,7 @@ This program is a Crawling program
 
 ## How to use
 
-  <pre><code>-> python3 wikiCrawling.py files</code></pre>
+    python3 wikiCrawling.py files
 
 'wikiCrawling.py' is Entry file.
 'files' is the new directory name which you want to make in your actual directory.
