@@ -11,5 +11,5 @@ This program is a Crawling program
     python3 wikiCrawling.py files
 
 
-*wikiCrawling.py is Entry file.
-*files is the new directory name which you want to make in your actual directory.
+* wikiCrawling.py is Entry file.
+* files is the new directory name which you want to make in your actual directory.
